@@ -15,7 +15,7 @@ badclaude
 
 - Click tray icon: spawn whip.
 - Click: drop whip.
-- Alt-tab into your clude code and whip him 😩💢
+- Whip him 😩💢
 - It sends an interrupt (Ctrl-C) and one of 5 encouraging messages!
 
 ## Roadmap
